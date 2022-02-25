@@ -1,0 +1,531 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poor Robins collection of antient prophecyes Being twelve in number, some whereof were delivered long since by our famous English prophet Ambrosius Merlin and found in old manuscripts, now printed for the readers satisfaction, others were found ingraven on a marble stone, in the year 1520. being ingraved in Latine characters, some whereof were Englished by Mr. William Lilly with alowance.</title>
+            <author>Poor Robin.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55411</idno>
+            <idno type="STC">Wing P2879</idno>
+            <idno type="STC">ESTC R218322</idno>
+            <idno type="EEBO-CITATION">99829927</idno>
+            <idno type="PROQUEST">99829927</idno>
+            <idno type="VID">34374</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55411)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34374)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2013:06)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Poor Robins collection of antient prophecyes Being twelve in number, some whereof were delivered long since by our famous English prophet Ambrosius Merlin and found in old manuscripts, now printed for the readers satisfaction, others were found ingraven on a marble stone, in the year 1520. being ingraved in Latine characters, some whereof were Englished by Mr. William Lilly with alowance.</title>
+                  <author>Poor Robin.</author>
+                  <author>Lilly, William, 1602-1681.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Phillip Brooksby, and are to be sold at the next door to the Golden Ball near the Hospital gate in West-smithfield,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original at the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34374:1"/>
+            <!-- PDF PAGE 56 -->
+            <p>Poor Robins Collection of Antient PROPHECYES.</p>
+            <p>Being twelve in Number, ſome whereof were delivered long ſince by our Famous Engliſh Prophet AMBROSIUS MERLIN And found in old Manuſcripts, now Printed for the Readers ſatiſfaction, others were found ingraven on a marble ſtone, in the Year 1520. being in<g ref="char:EOLhyphen"/>graved in Latine Characters, ſome whereof were En<g ref="char:EOLhyphen"/>gliſhed by Mr. <hi>WILLIAM LILLY,</hi> With Alowance.</p>
+            <p>
+               <hi>London</hi> Printed for <hi>Phillip Brookſby,</hi> and are to be ſold at the next door to the Golden Ball near the Hoſpital gate in Weſt-Smithfield. 1672.</p>
+            <pb facs="tcp:34374:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 57 -->
+            <pb facs="tcp:34374:2"/>
+            <!-- PDF PAGE 57 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:34374:3"/>
+            <!-- PDF PAGE 58 -->
+            <pb n="1" facs="tcp:34374:3"/>
+            <!-- PDF PAGE 58 -->
+            <head>Poor Robins Collection of Antient PROPHECYES.</head>
+            <p>FOr the better Illuſtrating this ſmall Tract the Rea<g ref="char:EOLhyphen"/>der may take an account of the ſeveral attribute given to Prophet, whereof ſome in our languages are called Prophets, others Predict<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s, and ſome of them are call'd Seers, the name of pr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et was and ought to be p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>r<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>to thoſe tha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> propreſie Divine Miſteries which ſhould fu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urety h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en, the other <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>, are more promiſcu<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ſl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> us'd by ſeveral authours, but of that enough and before <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſome to enquire i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to which of theſe Liſts this our Country-man M<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n ought to be fi<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d, it is neceſſary I ſpeak ſomething of his Parents, his Mother being certain, but his Father uncertain, for ſo ſay, whether he were according to Nature begot by a Man and a Woman, or according to his Mothers confeſ<g ref="char:EOLhyphen"/>ſion begot or conceiv'd by an incuby, but whatever his
+<pb n="2" facs="tcp:34374:4"/>
+               <!-- PDF PAGE 59 -->Father was, true it is his Mother was the Royal Daughter of King <hi>Demetius</hi> that ſometimes flouriſhed in this Iſle of <hi>Brittany,</hi> and thus much for his birth and Parents, we will now ſpeak as well of his as other famous Prophecies be<g ref="char:EOLhyphen"/>ginning at <hi>Henry</hi> the fifth the <hi>Black Prince</hi> ſo call'd for his Victories in <hi>France,</hi> and continue them down to theſe times.</p>
+            <div n="1" type="prophecy">
+               <head>
+                  <hi>Merlins</hi> firſt Propheſie of King <hi>Henry</hi> the Fifth.</head>
+               <lg>
+                  <l>
+                     <hi>Note a ſtrange mixture in the Planets ſeed,</hi>
+                  </l>
+                  <l>
+                     <hi>For now a</hi> Mercury <hi>a</hi> Mars <hi>ſhall breed,</hi>
+                  </l>
+                  <l>
+                     <hi>Who in his Arms accommo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ate and fit,</hi>
+                  </l>
+                  <l>
+                     <hi>Shall compaſs more by War than be by Wit,</hi>
+                  </l>
+                  <l>
+                     <hi>The</hi> Q<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>duceus <hi>to a Sword ſhall change,</hi>
+                  </l>
+                  <l>
+                     <hi>And grim</hi> Orion <hi>ſhall though it ſeem ſtrange,</hi>
+                  </l>
+                  <l>
+                     <hi>Sit in</hi> Aſtreas <hi>Orb and from her tear</hi>
+                  </l>
+                  <l>
+                     <hi>The three leav'd flower ſhe in her hand did bear,</hi>
+                  </l>
+                  <l>
+                     <hi>And after many afurious Victory</hi>
+                  </l>
+                  <l>
+                     <hi>At length inveſted ſhall this Lyon be.</hi>
+                  </l>
+               </lg>
+               <p>The expoſition of this Prophecy is plain and meant of <hi>Henry</hi> the Fifth, who conquer'd all <hi>France,</hi> and was crown'd King of <hi>France</hi> in <hi>Paris</hi> the French have the Flower De Luce in their Arms.</p>
+            </div>
+            <div n="2" type="prophecy">
+               <head>
+                  <hi>Merlins</hi> ſecond Prophecy on <hi>Hen<g ref="char:EOLhyphen"/>ry</hi> the Sixth.</head>
+               <lg>
+                  <l>
+                     <hi>How comes the Sun to riſe where he ſhould Set</hi>
+                  </l>
+                  <l>
+                     <hi>Or how Lambs, Lyons, Lyons, Lambs beget,</hi>
+                  </l>
+                  <pb n="3" facs="tcp:34374:4"/>
+                  <!-- PDF PAGE 59 -->
+                  <l>
+                     <hi>Yet ſo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t muſt be, the Lamb though doubly crownd,</hi>
+                  </l>
+                  <l>
+                     <hi>And thinking his large Empire hath no bound,</hi>
+                  </l>
+                  <l>
+                     <hi>Yet ſhall a Dolphin at a low Ebb Land</hi>
+                  </l>
+                  <l>
+                     <hi>And ſnatch one powerful Scepter from his hand,</hi>
+                  </l>
+                  <l>
+                     <hi>Thus it falls out twixt Father and the Son,</hi>
+                  </l>
+                  <l>Windſor <hi>ſhall looſe what ever</hi> Monmouth <hi>won.</hi>
+                  </l>
+               </lg>
+               <p>This Prophecy was made good in <hi>Henry</hi> the ſixth Reign, who for his meekneſs was ſirnam'd a Lamb he was doubly crown'd in <hi>London</hi> and in <hi>Paris.</hi>
+               </p>
+               <p>The Dolphin of <hi>Vien</hi> being at the loweſt Ebb of State yet in time recovered the whole Realm of <hi>France,</hi> with the Dukedom of <hi>Normandy,</hi> ſo that he ſnatcht one Scepter from his hand, thus <hi>Henry</hi> the Sixth born at <hi>Windſor</hi> loſt all that <hi>Henry</hi> the Fifth born at <hi>Monmouth</hi> had before atchieved by his un<g ref="char:EOLhyphen"/>matchable Proweſs.</p>
+            </div>
+            <div type="prophecy">
+               <head>
+                  <hi>Merlins</hi> Prophecy of King <hi>Hen<g ref="char:EOLhyphen"/>ry</hi> the Eighth.</head>
+               <lg>
+                  <l>
+                     <hi>Rouze him ſhall this fierce Lyen in his Den,</hi>
+                  </l>
+                  <l>
+                     <hi>Be favour'd of the Gods and fear'd of Men.</hi>
+                  </l>
+                  <l>Gallia <hi>ſhall quake,</hi> Albania <hi>ſtand in are,</hi>
+                  </l>
+                  <l>
+                     <hi>And</hi> Caeſars <hi>ſleep when he but ſhews his <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ar,</hi>
+                  </l>
+                  <l>
+                     <hi>To league with him</hi> Heſperia <hi>ſhall take pride,</hi>
+                  </l>
+                  <l>
+                     <hi>Thoſe whom he Africk m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rſe half black hath dy'd,</hi>
+                  </l>
+                  <l>
+                     <hi>He further from the Scoptarchy of Hills</hi>
+                  </l>
+                  <l>
+                     <hi>That</hi> Europe <hi>aws, and tripple Crown that fille.</hi>
+                  </l>
+                  <l>
+                     <hi>The Chriſtian world with terrour takes the power</hi>
+                  </l>
+                  <l>
+                     <hi>And bring it <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>em<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> unto his brittiſh bower.</hi>
+                  </l>
+               </lg>
+               <p>By <hi>Alla</hi> it is meant the Kingdom of <hi>Se<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iand</hi> and by
+<pb n="4" facs="tcp:34374:5"/>
+                  <!-- PDF PAGE 60 -->
+                  <hi>Heſperia, Spain,</hi> and by <hi>Gallia, France,</hi> by the Septarchy of Hills, meaning the ſeven hills on which <hi>Rome</hi> ſtandeth and further taking on himſelf to be the ſupream head of the Church in his dominions takes away that power from the Popes tripple Crown.</p>
+            </div>
+            <div type="prophecy">
+               <head>A Prophecy of <hi>Edward</hi> the Sixth and may be conti<g ref="char:EOLhyphen"/>nued to theſe times in ſome part.</head>
+               <lg>
+                  <l>
+                     <hi>By birth a</hi> Caeſar <hi>and in hopes as great,</hi>
+                  </l>
+                  <l>
+                     <hi>There ſhall aſcend to the Imperial Seat,</hi>
+                  </l>
+                  <l>
+                     <hi>Upright he ſhall between two Baſis ſtand,</hi>
+                  </l>
+                  <l>
+                     <hi>The one in the Sea fixt the other on the Land,</hi>
+                  </l>
+                  <l>
+                     <hi>Thoſe like true Heroes ſhall great honour gain</hi>
+                  </l>
+                  <l>
+                     <hi>Secure the continent and ſcou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e the Mains</hi>
+                  </l>
+                  <l>
+                     <hi>And e're this great ſupporters tane away</hi>
+                  </l>
+                  <l>
+                     <hi>His banners muſt in Northern</hi> Europe <hi>ſway.</hi>
+                  </l>
+               </lg>
+               <p>
+                  <hi>Edward</hi> the Sixth being riped out of his Mothers womb was cal'd by the Name of <hi>Coeſar,</hi> after the ſame manner the great Roman <hi>Julius</hi> be ſo produced into the world, had the ſirname of <hi>Ceſar,</hi> his great ſupporter was the Duke of <hi>Summerſet</hi> the then Protector and the governor of the young King.</p>
+            </div>
+            <div type="prophecy">
+               <head>A Propheſie on Queen <hi>Mary</hi>
+               </head>
+               <lg>
+                  <l>
+                     <hi>In time the</hi> Maſculine <hi>Scepter ceaſe to ſway</hi>
+                  </l>
+                  <l>
+                     <hi>And to a</hi> Spinſter <hi>the whole Land obey,</hi>
+                  </l>
+                  <l>
+                     <hi>Who to the</hi> Pap<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l <hi>Monarchy ſhall reſtore,</hi>
+                  </l>
+                  <l>
+                     <hi>All that the Phenix had fetch't thence before,</hi>
+                  </l>
+                  <l>
+                     <hi>Then ſhall come in the Faggot and the Stake</hi>
+                  </l>
+                  <l>
+                     <hi>And they of convert bodies b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>fires make,</hi>
+                  </l>
+                  <l>
+                     <hi>Men ſhall her ſhort unproſperous Reign deplore,</hi>
+                  </l>
+                  <l>
+                     <hi>By loſs at Sea and damage on the Shore,</hi>
+                  </l>
+                  <l>
+                     <hi>Whoſe beare being diſſected you in it</hi>
+                  </l>
+                  <l>
+                     <hi>May in large Characters find Callais Writ.</hi>
+                  </l>
+               </lg>
+               <p>This Prophecy was made good in Queen <hi>Mary</hi> and <hi>Spinſter</hi> is an antient Brittiſh title given to the Female Sex when they us'd to be convend into any court before King <hi>Edgars</hi> time, the reſt of this Prophecy unriddles it ſelf.</p>
+               <pb n="5" facs="tcp:34374:5"/>
+               <!-- PDF PAGE 60 -->
+            </div>
+            <div type="prophecy">
+               <head>
+                  <hi>Merlins</hi> Prophecy of Queen <hi>Elizabeth,</hi> her Birth and Reign.</head>
+               <lg>
+                  <l>
+                     <hi>From the others Aſhes ſhall a Phenix riſe</hi>
+                  </l>
+                  <l>
+                     <hi>Whoſe birth is thus predicted by the wiſe,</hi>
+                  </l>
+                  <l>
+                     <hi>Her chief predominant Starr is</hi> Mercury,</l>
+                  <l>Jove <hi>ſhall with</hi> Venus <hi>in Conjunction be;</hi>
+                  </l>
+                  <l>
+                     <hi>And</hi> Sol <hi>with them ſhine in his beſt Aſpect</hi>
+                  </l>
+                  <l>
+                     <hi>With</hi> Ariadnes <hi>Crown</hi> Aſtrea <hi>dect,</hi>
+                  </l>
+                  <l>
+                     <hi>Shall then deſcend upon this terrene Stage</hi>
+                  </l>
+                  <l>
+                     <hi>Not ſeen before, ſince the firſt golden Age,</hi>
+                  </l>
+                  <l>
+                     <hi>Againſt whom all the lation bulls ſhall rore</hi>
+                  </l>
+                  <l>
+                     <hi>But at</hi> Iove's <hi>awful ſummons ſhall give o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e,</hi>
+                  </l>
+                  <l>
+                     <hi>Her brighs and glorious Sun be<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> ſhall expell</hi>
+                  </l>
+                  <l>
+                     <hi>The vain Clouds of the Candle, book and bell.</hi>
+                  </l>
+                  <l>
+                     <hi>Of whom bred Vipers Menaces will come</hi>
+                  </l>
+                  <l>
+                     <hi>A bad retort of favours ſhe hath done,</hi>
+                  </l>
+                  <l>
+                     <hi>Though all theſe Doggs chaſe her with open cry</hi>
+                  </l>
+                  <l>
+                     <hi>Live ſhe ſhall L<gap reason="illegible" resp="#UOM" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>, and fear'd then fam<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſh'd dye.</hi>
+                  </l>
+               </lg>
+               <p>Concerning the Aſtrologicall calculation of her birth in her it prov'd moſt infallibly trve, all the other being ſo copious and plain, that any intelligable Mar may un<g ref="char:EOLhyphen"/>derſtand them.</p>
+            </div>
+            <div type="prophecy">
+               <head>A <hi>Prophecy</hi> of King <hi>James</hi> by <hi>Ambroſius Merlin.</hi>
+               </head>
+               <lg>
+                  <l>
+                     <hi>On</hi> 
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>orius <hi>back when hither ſhall be born</hi>
+                  </l>
+                  <l>
+                     <hi>Through weeks ore tweede a Princely Unicorn,</hi>
+                  </l>
+                  <l>
+                     <hi>Who brings into the world his own fair Creſt</hi>
+                  </l>
+                  <l>
+                     <hi>A Rampant Lyon figur'd on his breaſt,</hi>
+                  </l>
+                  <l>
+                     <hi>And to his arms ſix Lyons more ſhall quarter</hi>
+                  </l>
+                  <l>
+                     <hi>With ſix French flowers environ'd with a garter,</hi>
+                  </l>
+                  <l>
+                     <hi>Joyning by fates unchargeably diſpoſe</hi>
+                  </l>
+                  <l>
+                     <hi>The Northern Thiſtle, with the Southern Roſe,</hi>
+                  </l>
+                  <l>
+                     <hi>He ſhall the true Apoſtolick faith maintain,</hi>
+                  </l>
+                  <l>
+                     <hi>With pious zeal during his bleſſed Reign.</hi>
+                  </l>
+               </lg>
+               <p>There needs no explaination to this propheſie of King <hi>James</hi> being ſo conſpicuous, that each that can read it may underſtand it; thus far we have traced the Prophe<g ref="char:EOLhyphen"/>ſies
+<pb n="6" facs="tcp:34374:6"/>
+                  <!-- PDF PAGE 61 -->of our fame'd Engliſh Merlin renowned throughout the world, for this his admirable gift of Propheſie, in which are hinted many predictions toward the lattererd of our Viper like, and ungrateful neighbours, with a hap<g ref="char:EOLhyphen"/>py auguration of his preſent Majeſty's Grandure and victory over his enemies, but we leave the wiſe diſcer<g ref="char:EOLhyphen"/>ning Reader to judge and find it out.</p>
+               <p>A diſcovery of ſome antient Propheſies in the year One thouſand five hundred twenty a Marble Stone was found in the bowels of Mount <hi>Taurus</hi> upon an extream deluge, the words of the Propheſies were grave'd in antient Lattin Charracters, and thus Engliſhed by Mr, <hi>William Lilly.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The Propheſies at large,</head>
+               <p>There ſhall ariſe a Star in <hi>Europe</hi> towards the houſe of the north, whoſe beam, ſhall unexpectedly, enlighten the whole world.</p>
+               <p>This ſhall be in a moſt acceptable time when mortall Men being wearied with warr ſhall he deſirous of peace.</p>
+               <p>Near unto this Stars ſetting a light as antient as <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> former breaks out, and running with eager flames of wart will ſhut up, or conclude his dominion, with the coaſts of <hi>Antitodus.</hi>
+               </p>
+               <p>One Orb ſhall contradict, or contend with another.</p>
+               <p>The fixed Starrs in motion ſhall run faſter than the Planets, all theſe things ſhall follow, <hi>viz,</hi> The Seas ſhall riſe level with the Mountains, in a word, night deſtructi<g ref="char:EOLhyphen"/>on and darkneſs ſhall conclude all theſe things.</p>
+               <lg>
+                  <l>
+                     <hi>Thus did the</hi> Mead <hi>reot out the</hi> Aſſyria <hi>Race</hi>
+                  </l>
+                  <l>
+                     <hi>The</hi> Perſian <hi>quickly ſpeil'd the</hi> Meads <hi>in place,</hi>
+                  </l>
+                  <l>
+                     <hi>Of him ſubdue'd, up ſtarts the</hi> Maccde,</l>
+                  <l>
+                     <hi>Who after yeilded to the</hi> Roman <hi>Foe;</hi>
+                  </l>
+                  <l>
+                     <hi>So do all Nations Juſtle out each other,</hi>
+                  </l>
+                  <l>
+                     <hi>And ſo one People do perſue a nether;</hi>
+                  </l>
+                  <l>
+                     <hi>And ſcarce a ſecond that a firſt unhouſ'd</hi>
+                  </l>
+                  <l>
+                     <hi>Before a third him thence again hath rouſ'd.</hi>
+                  </l>
+               </lg>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
